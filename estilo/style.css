@@ -32,7 +32,7 @@ header > h1 {
     padding-top: 50px;
     font-variant: small-caps; /* variante de fonte */
     font-family: var(--fonte2);
-    font-size: 5vw; /* 10% tamanho da largura, irá adaptar de acordo com a largura da tela */
+    font-size: 8vw; /* 10% tamanho da largura, irá adaptar de acordo com a largura da tela */
 }
 
 header > p {
@@ -42,6 +42,7 @@ a {
     color: white;
     text-decoration: none;
     font-weight: bolder;
+    font-size: 3.7vw;
 }
 
 header a:hover, footer a:hover {
@@ -54,7 +55,7 @@ section {
     line-height: 2em; /* A fastamento das linhas */
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 3.2vw;
+    font-size: 3.7vw;
 }
 section > p {
     padding-bottom: 2em;
